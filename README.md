@@ -36,7 +36,7 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
 - **Asynchronous**
    - [Thread](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a)
    - [Coroutines](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
-   - [RX]
+   - RX
         - [RXJava](https://www.toptal.com/android/functional-reactive-android-rxjava)
         - [RXKotlin](https://www.baeldung.com/kotlin/rxkotlin)
         - [RXAndroid](https://www.androidhive.info/RxJava/android-getting-started-with-reactive-programming/)       
@@ -53,7 +53,9 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
    - Advertisement
         - [Google Admob](https://admob.google.com/home/)
         - [Huawei Ads](https://developer.huawei.com/consumer/en/huawei-ads/)
-        - [MoPub](https://www.mopub.com/en)        
+        - [MoPub](https://www.mopub.com/en) 
+- **Build System**
+    - [Gradle Build System](https://www.raywenderlich.com/249-gradle-tutorial-for-android-getting-started)                       
 - **CI/CD**
    - [GitHub Actions](https://docs.github.com/en/actions)
    - [Travis CI](https://docs.travis-ci.com/)

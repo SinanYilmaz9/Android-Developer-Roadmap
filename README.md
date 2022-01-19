@@ -21,7 +21,12 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
 - **Architecture**
     - [MVVM](https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture)
     - [MVI](https://www.raywenderlich.com/817602-mvi-architecture-for-android-tutorial-getting-started)
-    - [MVP](https://www.raywenderlich.com/7026-getting-started-with-mvp-model-view-presenter-on-android)     
+    - [MVP](https://www.raywenderlich.com/7026-getting-started-with-mvp-model-view-presenter-on-android)
+    - Dependency Injection
+        - [Hilt](https://developer.android.com/jetpack/androidx/releases/hilt)
+        - [Dagger](https://dagger.dev/dev-guide/)
+        - [Koin](https://insert-koin.io/docs/reference/introduction)
+        - [Kodein](https://docs.kodein.org/kodein-di/7.10/index.html)     
 - **Image Loading**
     - [Glide](https://bumptech.github.io/glide/)
     - [Coil](https://github.com/coil-kt/coil)
@@ -29,7 +34,11 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
 - **Network**
     - [Retrofit](https://howtodoandroid.com/retrofit-android-example-kotlin/)
     - [OkHttp](https://square.github.io/okhttp/)
-    - [Ktor](https://ktor.io/docs/welcome.html)     
+    - [Ktor](https://ktor.io/docs/welcome.html)
+    - Conventers
+        - [Kotlin Serialization](https://github.com/Kotlin/kotlinx.serialization)
+        - [Gson](https://github.com/google/gson)
+        - [Moshi](https://github.com/square/moshi)     
 - **Local Storage**
     - [SharedPreferences](https://developer.android.com/training/data-storage/shared-preferences)
     - [SQLite](https://developer.android.com/jetpack/androidx/releases/sqlite)

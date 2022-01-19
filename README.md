@@ -18,3 +18,50 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
       - [Implicit Intents]()
       - [Explicit Intents]()
     - [Content Providers](https://developer.android.com/guide/topics/providers/content-providers?hl=en)
+- **Architecture**
+    - [MVVM](https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture)
+    - [MVI](https://www.raywenderlich.com/817602-mvi-architecture-for-android-tutorial-getting-started)
+    - [MVP](https://www.raywenderlich.com/7026-getting-started-with-mvp-model-view-presenter-on-android)     
+- **Image Loading**
+    - [Glide](https://bumptech.github.io/glide/)
+    - [Coil](https://github.com/coil-kt/coil)
+    - [Picasso](https://square.github.io/picasso/)
+- **Local Storage**
+    - [SharedPreferences](https://developer.android.com/training/data-storage/shared-preferences)
+    - [SQLite](https://developer.android.com/jetpack/androidx/releases/sqlite)
+        - [Room](https://medium.com/mindorks/using-room-database-android-jetpack-675a89a0e942)
+        - [SQLDelight](https://cashapp.github.io/sqldelight/android_sqlite/) 
+    - [DataStore](https://developer.android.com/topic/libraries/architecture/datastore)
+    - [Realm](https://zhuinden.medium.com/how-to-use-realm-for-android-like-a-champ-and-how-to-tell-if-youre-doing-it-wrong-ac4f66b7f149)  
+- **Asynchronous**
+   - [Thread](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a)
+   - [Coroutines](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
+   - [RX]
+        - [RXJava](https://www.toptal.com/android/functional-reactive-android-rxjava)
+        - [RXKotlin](https://www.baeldung.com/kotlin/rxkotlin)
+        - [RXAndroid](https://www.androidhive.info/RxJava/android-getting-started-with-reactive-programming/)       
+   - [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager) 
+- **Service**
+   - [Google]
+        - [Google Play Services](https://developers.google.com/android/guides/setup)
+        - [Google Maps](https://developers.google.com/maps/documentation/android-sdk/overview)
+   - [Huawei]
+        - [Huawei Mobile Services](https://developer.huawei.com/consumer/en/hms)
+        - [Huawei Map Kit](https://developer.huawei.com/consumer/en/hms/huawei-MapKit/)
+   - [Firebase](https://firebase.google.com/docs)
+   - [AppGallery Connect](https://developer.huawei.com/consumer/en/agconnect/)
+   - [Advertisement]
+        - [Google Admob](https://admob.google.com/home/)
+        - [Huawei Ads](https://developer.huawei.com/consumer/en/huawei-ads/)
+        - [MoPub](https://www.mopub.com/en)        
+- **CI/CD**
+   - [GitHub Actions](https://docs.github.com/en/actions)
+   - [Travis CI](https://docs.travis-ci.com/)
+   - [Bitrise](https://devcenter.bitrise.io/)
+   - [Jenkins](https://www.jenkins.io/doc/)
+   - [Circle CI](https://circleci.com/docs/)
+- **QA & Publishing**
+   - [Firebase App Distribution](https://firebase.google.com/docs/app-distribution)
+   - [AppGallery Connect - Open Testing](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-betatest-introduction-0000001071477284)
+   - [Google Play Store](https://play.google.com/console/about/)   
+   - [App Gallery](https://developer.huawei.com/consumer/en/appgallery/)  

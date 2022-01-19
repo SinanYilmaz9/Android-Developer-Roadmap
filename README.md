@@ -26,6 +26,10 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
     - [Glide](https://bumptech.github.io/glide/)
     - [Coil](https://github.com/coil-kt/coil)
     - [Picasso](https://square.github.io/picasso/)
+- **Network**
+    - [Retrofit](https://howtodoandroid.com/retrofit-android-example-kotlin/)
+    - [OkHttp](https://square.github.io/okhttp/)
+    - [Ktor](https://ktor.io/docs/welcome.html)     
 - **Local Storage**
     - [SharedPreferences](https://developer.android.com/training/data-storage/shared-preferences)
     - [SQLite](https://developer.android.com/jetpack/androidx/releases/sqlite)

@@ -1,4 +1,4 @@
-# Android-Developer-Roadmap-2022
+# Android Developer Roadmap 2022
 This repo was created with the goal of being an up-to-date roadmap for Android developers.
 
 - **Languages**
@@ -42,15 +42,15 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
         - [RXAndroid](https://www.androidhive.info/RxJava/android-getting-started-with-reactive-programming/)       
    - [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager) 
 - **Service**
-   - [Google]
+   - Google
         - [Google Play Services](https://developers.google.com/android/guides/setup)
         - [Google Maps](https://developers.google.com/maps/documentation/android-sdk/overview)
-   - [Huawei]
+   - Huawei
         - [Huawei Mobile Services](https://developer.huawei.com/consumer/en/hms)
         - [Huawei Map Kit](https://developer.huawei.com/consumer/en/hms/huawei-MapKit/)
    - [Firebase](https://firebase.google.com/docs)
    - [AppGallery Connect](https://developer.huawei.com/consumer/en/agconnect/)
-   - [Advertisement]
+   - Advertisement
         - [Google Admob](https://admob.google.com/home/)
         - [Huawei Ads](https://developer.huawei.com/consumer/en/huawei-ads/)
         - [MoPub](https://www.mopub.com/en)        

@@ -18,6 +18,16 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
       - [Implicit Intents]()
       - [Explicit Intents]()
     - [Content Providers](https://developer.android.com/guide/topics/providers/content-providers?hl=en)
+- **User Interface**
+    - UI Layouts
+        - [ConstraintLayout](https://medium.com/exploring-android/exploring-the-new-android-constraintlayout-eed37fe8d8f1)
+        - [MotionLayout](https://developer.android.com/training/constraint-layout/motionlayout)
+        - [LinearLayout](https://developer.android.com/guide/topics/ui/layout/linear)
+        - [RelativeLayout](https://developer.android.com/guide/topics/ui/layout/relative)
+        - [FrameLayout](https://developer.android.com/reference/android/widget/FrameLayout)
+    - Styles
+        - [Styles vs Themes](https://medium.com/androiddevelopers/android-styling-themes-vs-styles-ebe05f917578)
+        - [Dark Theme](https://developer.android.com/guide/topics/ui/look-and-feel/darktheme)      
 - **Architecture**
     - [MVVM](https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture)
     - [MVI](https://www.raywenderlich.com/817602-mvi-architecture-for-android-tutorial-getting-started)

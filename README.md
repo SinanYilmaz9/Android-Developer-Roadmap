@@ -27,7 +27,12 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
         - [FrameLayout](https://developer.android.com/reference/android/widget/FrameLayout)
     - Styles
         - [Styles vs Themes](https://medium.com/androiddevelopers/android-styling-themes-vs-styles-ebe05f917578)
-        - [Dark Theme](https://developer.android.com/guide/topics/ui/look-and-feel/darktheme)      
+        - [Dark Theme](https://developer.android.com/guide/topics/ui/look-and-feel/darktheme) 
+    - Animations
+        - [Material Motion](https://material.io/develop/android/theming/motion)
+        - [Transition](https://developer.android.com/training/transitions)  
+        - [Object Animator](https://developer.android.com/guide/topics/graphics/prop-animation#object-animator)
+        - [Lottie](https://github.com/airbnb/lottie-android)         
 - **Architecture**
     - [MVVM](https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture)
     - [MVI](https://www.raywenderlich.com/817602-mvi-architecture-for-android-tutorial-getting-started)
@@ -36,7 +41,7 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
         - [Hilt](https://developer.android.com/jetpack/androidx/releases/hilt)
         - [Dagger](https://dagger.dev/dev-guide/)
         - [Koin](https://insert-koin.io/docs/reference/introduction)
-        - [Kodein](https://docs.kodein.org/kodein-di/7.10/index.html)     
+        - [Kodein](https://docs.kodein.org/kodein-di/7.10/index.html)              
 - **Image Loading**
     - [Glide](https://bumptech.github.io/glide/)
     - [Coil](https://github.com/coil-kt/coil)
@@ -78,7 +83,11 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
         - [Huawei Ads](https://developer.huawei.com/consumer/en/huawei-ads/)
         - [MoPub](https://www.mopub.com/en) 
 - **Build System**
-    - [Gradle Build System](https://www.raywenderlich.com/249-gradle-tutorial-for-android-getting-started)                       
+    - [Gradle Build System](https://www.raywenderlich.com/249-gradle-tutorial-for-android-getting-started)      
+- **Security**
+    - [ProGuard](https://blog.mindorks.com/applying-proguard-in-an-android-application)
+    - [R8](https://betterprogramming.pub/r8-shrinking-in-android-27f3edbbad9e)
+    - [Keystore](https://developer.android.com/training/articles/keystore)                      
 - **CI/CD**
    - [GitHub Actions](https://docs.github.com/en/actions)
    - [Travis CI](https://docs.travis-ci.com/)

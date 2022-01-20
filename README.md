@@ -8,9 +8,18 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
 - **Android Packages**
     - [AAB](https://developer.android.com/guide/app-bundle)
     - [APK](https://developer.android.com/google/play/expansion-files)
+- **Android Studio**
+    - [Debugger](https://developer.android.com/studio/debug)
+    - [CPU Profiler](https://betterprogramming.pub/improve-apps-performance-with-android-profilers-edb240deeb71)
+    - [Android Debug Bridge](https://developer.android.com/studio/command-line/adb)
+    - [Emulator](https://developer.android.com/studio/run/emulator)
+    - [SDK Manager](https://developer.android.com/studio/intro/update#sdk-manager)    
+- **Android Manifest** 
+    - [Permissions](https://developer.android.com/guide/topics/manifest/manifest-intro#perms)
+    - [App Components](https://developer.android.com/guide/topics/manifest/manifest-intro#components) 
+    - [Package](https://developer.android.com/guide/topics/manifest/manifest-intro#package-name)   
 - **App Components**
     - [Activity](https://developer.android.com/reference/android/app/Activity)
-    - [Fragment](https://developer.android.com/reference/android/app/Fragment)
     - [Service](https://developer.android.com/reference/android/app/Service)
     - [Broadcast Receiver](https://developer.android.com/reference/android/content/BroadcastReceiver)
     - [Intent](https://developer.android.com/reference/android/content/Intent)
@@ -94,7 +103,11 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
 - **Security**
     - [ProGuard](https://blog.mindorks.com/applying-proguard-in-an-android-application)
     - [R8](https://betterprogramming.pub/r8-shrinking-in-android-27f3edbbad9e)
-    - [Keystore](https://developer.android.com/training/articles/keystore)                      
+    - [Keystore](https://developer.android.com/training/articles/keystore)  
+- **Test**
+    - [Unit Tests](https://betterprogramming.pub/android-unit-testing-basics-3e7075a432a1)
+    - [Integration Tests](https://medium.com/airbnb-engineering/writing-fast-deterministic-and-accurate-android-integration-tests-c56811bd14e2)
+    - [Instrumentation Tests](https://developer.android.com/training/testing/instrumented-tests)                     
 - **CI/CD**
    - [GitHub Actions](https://docs.github.com/en/actions)
    - [Travis CI](https://docs.travis-ci.com/)

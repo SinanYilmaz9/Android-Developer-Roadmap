@@ -14,9 +14,6 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
     - [Service](https://developer.android.com/reference/android/app/Service)
     - [Broadcast Receiver](https://developer.android.com/reference/android/content/BroadcastReceiver)
     - [Intent](https://developer.android.com/reference/android/content/Intent)
-      - [Intent Filters]()
-      - [Implicit Intents]()
-      - [Explicit Intents]()
     - [Content Providers](https://developer.android.com/guide/topics/providers/content-providers?hl=en)
 - **User Interface**
     - UI Layouts
@@ -41,7 +38,11 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
         - [Hilt](https://developer.android.com/jetpack/androidx/releases/hilt)
         - [Dagger](https://dagger.dev/dev-guide/)
         - [Koin](https://insert-koin.io/docs/reference/introduction)
-        - [Kodein](https://docs.kodein.org/kodein-di/7.10/index.html)              
+        - [Kodein](https://docs.kodein.org/kodein-di/7.10/index.html)           
+- **Jetpack**
+    - [Material Design](https://material.io/develop/android)
+    - [Architecture Components](https://developer.android.com/topic/architecture)
+    - [Navigation](https://developer.android.com/guide/navigation/)            
 - **Image Loading**
     - [Glide](https://bumptech.github.io/glide/)
     - [Coil](https://github.com/coil-kt/coil)
@@ -82,6 +83,12 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
         - [Google Admob](https://admob.google.com/home/)
         - [Huawei Ads](https://developer.huawei.com/consumer/en/huawei-ads/)
         - [MoPub](https://www.mopub.com/en) 
+- **Compose**
+    - [Compose Basics](https://developer.android.com/codelabs/jetpack-compose-basics)
+    - [Compose Navigation](https://developer.android.com/codelabs/jetpack-compose-navigation)
+    - [Layouts in Compose](https://developer.android.com/codelabs/jetpack-compose-layouts)    
+    - [Migrating to Compose](https://developer.android.com/codelabs/jetpack-compose-migration) 
+    - [Compose Animation](https://developer.android.com/codelabs/jetpack-compose-animation)   
 - **Build System**
     - [Gradle Build System](https://www.raywenderlich.com/249-gradle-tutorial-for-android-getting-started)      
 - **Security**

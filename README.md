@@ -1,6 +1,9 @@
 # Android Developer Roadmap 2022
 This repo was created with the goal of being an up-to-date roadmap for Android developers.
 
+![alt text](https://github.com/SinanYilmaz9/Android-Developer-Roadmap/blob/main/banner.png?raw=true)
+
+
 - **Languages :earth_africa:**<br />
     _Programming languages used in development._
     - [Kotlin](https://kotlinlang.org/)

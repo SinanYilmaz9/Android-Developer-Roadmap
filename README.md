@@ -57,7 +57,8 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
         - [Hilt](https://developer.android.com/jetpack/androidx/releases/hilt)
         - [Dagger](https://dagger.dev/dev-guide/)
         - [Koin](https://insert-koin.io/docs/reference/introduction)
-        - [Kodein](https://docs.kodein.org/kodein-di/7.10/index.html)           
+        - [Kodein](https://docs.kodein.org/kodein-di/7.10/index.html)  
+    - [Modularization](https://proandroiddev.com/modularization-of-android-applications-in-2021-a79a590d5e5b)             
 - **Jetpack :rocket:**<br />
     _Jetpack is a collection of Android software components which helps us in building great Android apps._
     - [Material Design](https://material.io/develop/android)
@@ -119,7 +120,7 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
     - [Compose Animation](https://developer.android.com/codelabs/jetpack-compose-animation)   
 - **Build System :smoking:**<br />
     _The Android build system compiles app resources and source code and packages them into APKs or Android App Bundles._
-    - [Gradle Build System](https://www.raywenderlich.com/249-gradle-tutorial-for-android-getting-started)      
+    - [Gradle Build System](https://www.raywenderlich.com/249-gradle-tutorial-for-android-getting-started)   
 - **Security :closed_lock_with_key:**<br />
     _Android has built-in security features that significantly reduce the frequency and impact of application security issues._
     - [ProGuard](https://blog.mindorks.com/applying-proguard-in-an-android-application)

@@ -59,8 +59,7 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
     _Jetpack is a collection of Android software components which helps us in building great Android apps._
     - [Material Design](https://material.io/develop/android)
     - [Architecture Components](https://medium.com/exploring-android/exploring-the-new-android-architecture-components-c33b15d89c23)
-    - Navigation
-        - [Introduction to Navigation](https://developer.android.com/guide/navigation/)
+    - [Navigation](https://developer.android.com/guide/navigation/)
         - [NavigationUI](https://medium.com/androiddevelopers/navigationui-d21fd4f5c318) 
         - [Graphs and Deep Link](https://www.raywenderlich.com/4332831-navigation-component-for-android-part-2-graphs-and-deep-links)      
     - [Fragment](https://developer.android.com/jetpack/androidx/releases/fragment)           

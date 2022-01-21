@@ -8,7 +8,7 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
     _Programming languages used in development._
     - [Kotlin](https://kotlinlang.org/)
     - [Java](https://www.java.com/)
-    - [C++](https://www.java.com/)
+    - [C++](https://isocpp.org/)
 - **Android Packages :package:**<br />
     _Android Package is the Android application package file format._
     - [AAB](https://developer.android.com/guide/app-bundle)

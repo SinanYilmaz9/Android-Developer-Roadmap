@@ -141,6 +141,6 @@ This repo was created with the goal of being an up-to-date roadmap for Android d
 - **QA & Publishing :shopping_cart:**<br />
    _Publishing is the general process that makes your Android applications available to users._
    - [Firebase App Distribution](https://firebase.google.com/docs/app-distribution)
-   - [AppGallery Connect - Open Testing](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-betatest-introduction-0000001071477284)
+   - [Huawei AppGallery Connect - Open Testing](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-betatest-introduction-0000001071477284)
    - [Google Play Store](https://play.google.com/console/about/)   
-   - [App Gallery](https://developer.huawei.com/consumer/en/appgallery/)  
+   - [Huawei App Gallery](https://developer.huawei.com/consumer/en/appgallery/)  
